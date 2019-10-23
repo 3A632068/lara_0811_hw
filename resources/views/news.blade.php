@@ -85,6 +85,7 @@
         </div>
 
         <div class="links">
+            //兩個按鈕
             <a href="{{route('home.index')}}">Home</a>
             <a href="{{route('about.index')}}">About</a>
         </div>
